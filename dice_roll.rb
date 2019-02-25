@@ -5,3 +5,6 @@
 def roll
   # code goes here
 end
+def dice_roll ("1,  2, 3, 4, 5, 6")
+end
+puts dice_roll
