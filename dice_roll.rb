@@ -7,5 +7,4 @@ def roll
 end
 rand ("1..6")
 end
-puts rand
-rand ("1 +6")
+
